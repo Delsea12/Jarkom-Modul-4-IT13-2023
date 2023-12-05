@@ -74,3 +74,4 @@ Beriku hasil testing kami
 ![image](https://github.com/Delsea12/Jarkom-Modul-4-IT13-2023/assets/113821220/6b64a0f3-1a54-45da-9342-cf40eb984f90)
 
 
+- Kendala CIDR, masih belum bisa melakukan routing, belum bisa ping satu sama lain.
