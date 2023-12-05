@@ -1,4 +1,4 @@
-# Jarkom-Modul-4-IT13-2023
+![image](https://github.com/Delsea12/Jarkom-Modul-4-IT13-2023/assets/96894117/b3ee2c49-bede-44d7-986b-942e3993d132)# Jarkom-Modul-4-IT13-2023
 
 |       Nama      | NRP        | 
 | -----------     | :---------: 
@@ -19,10 +19,12 @@
 - TREE
 Berikut merupakan hasil pemecahan ```subnet``` besar yang akan dibentuk menjadi jaringan yang lebih kecil
 
-![untitled]()
+![untitled](https://cdn.discordapp.com/attachments/901344920361656355/1181495370472226946/vlsm.drawio.png?ex=6581444f&is=656ecf4f&hm=3c29c3186f0c967e4da6b6829c33ac9bf5ab43c415df29a1aa28038bc69c15bf&)
 
 - Pembagian IP
 Berikut merupakan pembagian ```IP```  yang telah kami peroleh dari hasil pemecahan tadi menjadi jaringan yang lebih kecil
+![untitled](https://cdn.discordapp.com/attachments/901344920361656355/1181495899294273606/image.png?ex=658144cd&is=656ecfcd&hm=9096b37f1ca9a091c6d05b27032d6db0b7df558a6c3cb66e90eee3573925de7e&)
+
 ![untitled](https://cdn.discordapp.com/attachments/901344920361656355/1181084365166489631/image.png?ex=657fc588&is=656d5088&hm=042c48912c613d1c3253e0b220514868dba0368636a31f64b2489b4770ed875d&)
 
 - Subnetting dan Routing
@@ -31,4 +33,4 @@ Berikut merupakan pembagian ```IP```  yang telah kami peroleh dari hasil pemecah
 
 - Testing
 Beriku hasil testing kami
-![untitled]()
+![untitled](https://cdn.discordapp.com/attachments/901344920361656355/1181496485943189534/image.png?ex=65814559&is=656ed059&hm=c30f23fa7b921d1aad4a8a2577e9844483c1bee8de705ca288eb5d172d6a147f&)
