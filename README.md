@@ -13,7 +13,12 @@
 
 
 ## <a name="topologi"></a> Topologi
+CPT
 ![untitled](https://cdn.discordapp.com/attachments/901344920361656355/1181078865486020608/image.png?ex=657fc068&is=656d4b68&hm=549e809164cf0e09b2b6a7b3e94af4382c42194cbe9180e284cbcf2097153e04&)
+
+GNS3
+![WhatsApp Image 2023-12-05 at 19 05 50_37610504](https://github.com/Delsea12/Jarkom-Modul-4-IT13-2023/assets/113821220/131a7892-c8a5-4bd7-9613-847223a139b4)
+
 
 ## <a name="vlsm"></a> VLSM
 - TREE
@@ -36,3 +41,36 @@ Berikut merupakan pembagian ```IP```  yang telah kami peroleh dari hasil pemecah
 Beriku hasil testing kami
 
 ![untitled](https://cdn.discordapp.com/attachments/901344920361656355/1181496485943189534/image.png?ex=65814559&is=656ed059&hm=c30f23fa7b921d1aad4a8a2577e9844483c1bee8de705ca288eb5d172d6a147f&)
+
+
+
+
+
+
+## <a name="cidr"></a> CIDR
+
+- Peruteean pada jaringan, melakukan subnetting lalu pencatatan kebutuhan IP dan rute jaringan.
+
+![image](https://github.com/Delsea12/Jarkom-Modul-4-IT13-2023/assets/113821220/b7c77c16-27df-412f-b7a8-e95ef0ccde47)
+
+
+![image](https://github.com/Delsea12/Jarkom-Modul-4-IT13-2023/assets/113821220/1ff43125-6a50-40fe-94af-45bae1523181)
+
+
+- Penggabungan dari subnet sampai menjadi satu subnet besar
+
+![image](https://github.com/Delsea12/Jarkom-Modul-4-IT13-2023/assets/113821220/121e65f2-5c8c-4773-9a38-8dd058b736a3)
+
+![image](https://github.com/Delsea12/Jarkom-Modul-4-IT13-2023/assets/113821220/bf729aeb-3ad0-4b2e-8715-a9cb7467617f)
+
+
+- Tree dari hasil penggabungan untuk mencari IP masing-masing subnet
+
+![image](https://github.com/Delsea12/Jarkom-Modul-4-IT13-2023/assets/113821220/54e17cb3-fa1f-4077-b833-4b20d1837552)
+
+
+- Pembagian IP untuk masing-masing subnet (disini saya mengurutkan berdasarkan besar size yang dibutuhkan)
+
+![image](https://github.com/Delsea12/Jarkom-Modul-4-IT13-2023/assets/113821220/6b64a0f3-1a54-45da-9342-cf40eb984f90)
+
+
